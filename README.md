@@ -18,7 +18,9 @@ generate a simple logo for my projects sp that  I don't have to pay a graphic de
 
 
 ## Video
-Instructional Video
+<a href="https://drive.google.com/file/d/1fM_mdS_K3szDPE58lif2pKSbHm_ZPCMn/view">Link to Video</a>
+
+
 
 
 ## Technologies
